@@ -43,10 +43,10 @@ This repository is a collection of the work that I've completed to show off my s
 - [Airflow Log Analyzer](https://github.com/ko-allan/airflow-log-analyzer)
 - [Kafka Project that Detects Fraud](https://github.com/ko-allan/kafka-fraud-detection)
 - [Spark Project for a Post Sales Report](https://github.com/ko-allan/post-sales-report)
-- [Map Reduce](https://github.com/ko-allan/map-reduce-test)
 
 ### Python
 - [AllanBank](https://github.com/ko-allan/allan-bank)
+- [MapReduce](https://github.com/ko-allan/map-reduce-test)
 
 ### School
 - [Marketing Research for Tesla](https://github.com/ko-allan/csueb-MKTG-310-tesla)
