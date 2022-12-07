@@ -33,6 +33,30 @@ This repository is a collection of the work that I've completed to show off my s
 
 # Projects
 
+### Data Analysis
+- [Global Cause of Death Analysis](https://github.com/ko-allan/global-cause-of-death-analysis/blob/main/cause_of_deaths_analysis.ipynb)
+- [Yahoo! Finance Stock Info](https://github.com/ko-allan/yfinance-info/blob/main/stocks.ipynb)
+
+### Data Engineering
+- [Sample Data Pipeline](https://github.com/ko-allan/data-pipeline-test)
+- [Airflow Project with Stock Data](https://github.com/ko-allan/stock-calcs)
+- [Airflow Log Analyzer](https://github.com/ko-allan/airflow-log-analyzer)
+- [Kafka Project that Detects Fraud](https://github.com/ko-allan/kafka-fraud-detection)
+- [Spark Project for a Post Sales Report](https://github.com/ko-allan/post-sales-report)
+- [Map Reduce](https://github.com/ko-allan/map-reduce-test)
+
+### Python
+- [AllanBank](https://github.com/ko-allan/allan-bank)
+
+### School
+- [Marketing Research for Tesla](https://github.com/ko-allan/csueb-MKTG-310-tesla)
+
+### SQL
+- [2016 Eurocup Queries](https://github.com/ko-allan/2016-eurocup-queries)
+- [Query Optimization in MySQL](https://github.com/ko-allan/sql-optimization)
+
+### 
+
 # Certifications
 
 ### Coursera
