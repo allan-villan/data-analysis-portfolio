@@ -38,15 +38,11 @@ This repository is a collection of the work that I've completed to show off my s
 - [Yahoo! Finance Stock Info](https://github.com/ko-allan/yfinance-info/blob/main/stocks.ipynb)
 
 ### Data Engineering
-- [Sample Data Pipeline](https://github.com/ko-allan/data-pipeline-test)
 - [Airflow Project with Stock Data](https://github.com/ko-allan/stock-calcs)
 - [Airflow Log Analyzer](https://github.com/ko-allan/airflow-log-analyzer)
 - [Kafka Project that Detects Fraud](https://github.com/ko-allan/kafka-fraud-detection)
 - [Spark Project for a Post Sales Report](https://github.com/ko-allan/post-sales-report)
-
-### Python
-- [AllanBank](https://github.com/ko-allan/allan-bank)
-- [MapReduce](https://github.com/ko-allan/map-reduce-test)
+- [Sample Data Pipeline](https://github.com/ko-allan/data-pipeline-test)
 
 ### School
 - [Marketing Research for Tesla](https://github.com/ko-allan/csueb-MKTG-310-tesla)
