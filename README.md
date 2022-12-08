@@ -4,11 +4,11 @@ Welcome to my Data Analysis Portfolio!
 If you want to discuss any of my projects further, leave a suggestion, or have a quick chat, please feel free to reach out via [LinkedIn](https://www.linkedin.com/in/allanvde/)!
 
 ## Table of Contents:
-1) [Background](https://github.com/ko-allan/data-analysis-portfolio/edit/main/README.md#background)
-2) [Goal](https://github.com/ko-allan/data-analysis-portfolio/edit/main/README.md#goal)
-3) [Projects](https://github.com/ko-allan/data-analysis-portfolio/edit/main/README.md#projects)
-4) [Certifications](https://github.com/ko-allan/data-analysis-portfolio/edit/main/README.md#certifications)
-5) [Links](https://github.com/ko-allan/data-analysis-portfolio/edit/main/README.md#links)
+1) [Background](https://github.com/allan-villan/data-analysis-portfolio#background)
+2) [Goal](https://github.com/allan-villan/data-analysis-portfolio#goal)
+3) [Projects](https://github.com/allan-villan/data-analysis-portfolio#projects)
+4) [Certifications](https://github.com/allan-villan/data-analysis-portfolio#certifications)
+5) [Links](https://github.com/allan-villan/data-analysis-portfolio#links)
 
 # Background
 I graduated with a Bachelor of Science in Business Administration (General Management) from California State University, East Bay in 2020. During a Marketing Research course, I found that I love working with data in any capacity. I was inspired to complete **Google's Data Analysis Professional Certificate**, hosted by *Coursera*, and loved every minute of it. 
@@ -50,8 +50,6 @@ This repository is a collection of the work that I've completed to show off my s
 ### SQL
 - [2016 Euro Cup Queries](https://github.com/ko-allan/2016-euro-cup-queries)
 - [Query Optimization in MySQL](https://github.com/ko-allan/sql-optimization)
-
-### 
 
 # Certifications
 
