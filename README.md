@@ -52,7 +52,7 @@ This repository is a collection of the work that I've completed to show off my s
 - [Marketing Research for Tesla](https://github.com/ko-allan/csueb-MKTG-310-tesla)
 
 ### SQL
-- [2016 Euro Cup Queries](https://github.com/ko-allan/2016-eurocup-queries)
+- [2016 Euro Cup Queries](https://github.com/ko-allan/2016-euro-cup-queries)
 - [Query Optimization in MySQL](https://github.com/ko-allan/sql-optimization)
 
 ### 
