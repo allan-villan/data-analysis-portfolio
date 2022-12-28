@@ -23,9 +23,6 @@ Here's a picture of me and my future dog (they're too cute!!!).
 > 
 > [source](https://iheartdogs.com/meet-gen-the-corgi-the-most-expressive-dog-in-the-world/)
 
-### About Me
-I enjoy listening to all kinds of music, snowboarding (any sport really), and anything that brings out my competitive nature. I found that video games are a great way to challenge my decision-making, leadership capabilities, and my ability to understand situations at a macro level. I've placed consistently in the top 1% of players in numerous online games and understand how to translate *strategy* into *actionable plans* that lead to the **highest** probability of success.
-
 # Goal
 As I complete the next logical step in becoming a Data Analyst, I hope to develop the skills I've been learning in a capacity that can improve decision-making and automate redundant processes. I would also love to contribute to the company's culture that they've cultivated to make working a more enjoyable experience for everyone.
 
@@ -50,6 +47,10 @@ This repository is a collection of the work that I've completed to show off my s
 ### SQL
 - [2016 Euro Cup Queries](https://github.com/ko-allan/2016-euro-cup-queries)
 - [Query Optimization in MySQL](https://github.com/ko-allan/sql-optimization)
+
+### Visualizations
+- [KPI Dashboard using Tableau's Superstore Dataset](https://public.tableau.com/app/profile/allan.villanueva/viz/KPIDashboard-SalesProfitYOY/KPIDashboard)
+- [Treemap of Business Categories in Berkeley, California (2022)](https://public.tableau.com/app/profile/allan.villanueva/viz/BreakdownofBusinessesinBerkeley2022/BerkeleyNAICSTreemap)
 
 # Certifications
 
