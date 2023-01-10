@@ -31,24 +31,23 @@ This repository is a collection of the work that I've completed to show off my s
 # Projects
 
 ### Data Analysis
+> Descriptive Analysis
 - [Global Cause of Death Analysis](https://github.com/ko-allan/global-cause-of-death-analysis/blob/main/cause_of_deaths_analysis.ipynb)
-- [Yahoo! Finance Stock Info](https://github.com/ko-allan/yfinance-info/blob/main/stocks.ipynb)
+> Prescriptive Analysis
+- [Marketing Research for Tesla (SPSS)](https://github.com/ko-allan/csueb-MKTG-310-tesla)
 
-### Data Engineering
-- [Airflow Project with Stock Data](https://github.com/ko-allan/stock-calcs)
-- [Airflow Log Analyzer](https://github.com/ko-allan/airflow-log-analyzer)
-- [Kafka Project that Detects Fraud](https://github.com/ko-allan/kafka-fraud-detection)
-- [Spark Project for a Post Sales Report](https://github.com/ko-allan/post-sales-report)
-- [Sample Data Pipeline](https://github.com/ko-allan/data-pipeline-test)
+## Data Engineering
+> Airflow
+- [Stock Data to csv](https://github.com/ko-allan/stock-calcs)
+- [Log Analyzer](https://github.com/ko-allan/airflow-log-analyzer)
+> Kafka
+- [Fraud Detector](https://github.com/ko-allan/kafka-fraud-detection)
+> Spark
+- [Post Sales Report](https://github.com/ko-allan/post-sales-report)
+> Pipelines
+- [Event Ticket Data Pipeline](https://github.com/ko-allan/data-pipeline-test)
 
-### School
-- [Marketing Research for Tesla](https://github.com/ko-allan/csueb-MKTG-310-tesla)
-
-### SQL
-- [2016 Euro Cup Queries](https://github.com/ko-allan/2016-euro-cup-queries)
-- [Query Optimization in MySQL](https://github.com/ko-allan/sql-optimization)
-
-### Visualizations
+## Visualizations
 - [KPI Dashboard using Tableau's Superstore Dataset](https://public.tableau.com/app/profile/allan.villanueva/viz/KPIDashboard-SalesProfitYOY/KPIDashboard)
 - [Treemap of Business Categories in Berkeley, California (2022)](https://public.tableau.com/app/profile/allan.villanueva/viz/BreakdownofBusinessesinBerkeley2022/BerkeleyNAICSTreemap)
 
