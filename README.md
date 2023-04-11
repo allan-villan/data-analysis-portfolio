@@ -9,22 +9,15 @@
 # Background
 I graduated with a Bachelor of Science in Business Administration (General Management) from California State University, East Bay in 2020. During a Marketing Research course, I found that I love working with data. I was inspired to complete **Google's Data Analysis Professional Certificate**, hosted by *Coursera*, and loved every minute of it. 
 
-Here's a picture of me and my future dog:
-
-> ![me (2)](https://user-images.githubusercontent.com/84660320/205746396-101944c0-4e82-4ff9-abc1-193d170b3268.png)
-> ![corgi](https://user-images.githubusercontent.com/84660320/205746507-e9e0cc52-67c2-4d56-bf25-d60d62c6289e.jpg)
-> 
-> [source](https://iheartdogs.com/meet-gen-the-corgi-the-most-expressive-dog-in-the-world/)
-
 # Goal
 Help companies make better decisions by making it easier to do so.
 
 # Projects
 
 ### Data Analysis
-> Descriptive Analysis
+> pandas library
 - [Global Cause of Death Analysis](https://github.com/ko-allan/global-cause-of-death-analysis/blob/main/cause_of_deaths_analysis.ipynb)
-> Prescriptive Analysis
+> School project
 - [Marketing Research for Tesla (SPSS)](https://github.com/ko-allan/csueb-MKTG-310-tesla)
 
 ### Data Engineering
