@@ -1,8 +1,4 @@
 # Allan Villanueva's Portfolio
-Welcome to my portfolio :) 
-
-If you want to discuss any of my projects further, leave a suggestion, or have a quick chat, please feel free to reach out via [LinkedIn](https://www.linkedin.com/in/allanvde/)!
-
 ## Table of Contents:
 1) [Background](https://github.com/allan-villan/data-analysis-portfolio#background)
 2) [Goal](https://github.com/allan-villan/data-analysis-portfolio#goal)
