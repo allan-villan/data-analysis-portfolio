@@ -11,12 +11,9 @@ If you want to discuss any of my projects further, leave a suggestion, or have a
 5) [Links](https://github.com/allan-villan/data-analysis-portfolio#links)
 
 # Background
-I graduated with a Bachelor of Science in Business Administration (General Management) from California State University, East Bay in 2020. During a Marketing Research course, I found that I love working with data in any capacity. I was inspired to complete **Google's Data Analysis Professional Certificate**, hosted by *Coursera*, and loved every minute of it. 
+I graduated with a Bachelor of Science in Business Administration (General Management) from California State University, East Bay in 2020. During a Marketing Research course, I found that I love working with data. I was inspired to complete **Google's Data Analysis Professional Certificate**, hosted by *Coursera*, and loved every minute of it. 
 
-Now that I'm comfortable writing semi-complicated SQL queries, capable of performing Exploratory Data Analysis with Python using the pandas
-and Numpy libraries, and competent in creating dashboards to visualize KPIs using Tableau, I wanted to put all my projects in a singular place and show off my work.
-
-Here's a picture of me and my future dog (they're too cute!!!).
+Here's a picture of me and my future dog:
 
 > ![me (2)](https://user-images.githubusercontent.com/84660320/205746396-101944c0-4e82-4ff9-abc1-193d170b3268.png)
 > ![corgi](https://user-images.githubusercontent.com/84660320/205746507-e9e0cc52-67c2-4d56-bf25-d60d62c6289e.jpg)
@@ -24,9 +21,7 @@ Here's a picture of me and my future dog (they're too cute!!!).
 > [source](https://iheartdogs.com/meet-gen-the-corgi-the-most-expressive-dog-in-the-world/)
 
 # Goal
-As I complete the next logical step in becoming a Data Analyst, I hope to develop the skills I've been learning in a capacity that can improve decision-making and automate redundant processes. I would also love to contribute to the company's culture that they've cultivated to make working a more enjoyable experience for everyone.
-
-This repository is a collection of the work that I've completed to show off my skills, receive feedback on how I can improve, and track my progress in Data Analytics.
+Help companies make better decisions by making it easier to do so.
 
 # Projects
 
