@@ -41,6 +41,7 @@ This repository is a collection of the work that I've completed to show off my s
 - [Event Ticket Data Pipeline](https://github.com/ko-allan/data-pipeline-test)
 
 ### Visualizations
+> Tableau
 - [KPI Dashboard using Tableau's Superstore Dataset](https://public.tableau.com/app/profile/allan.villanueva/viz/KPIDashboard-SalesProfitYOY/KPIDashboard)
 - [Treemap of Business Categories in Berkeley, California (2022)](https://public.tableau.com/app/profile/allan.villanueva/viz/BreakdownofBusinessesinBerkeley2022/BerkeleyNAICSTreemap)
 
