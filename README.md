@@ -36,18 +36,11 @@ This repository is a collection of the work that I've completed to show off my s
 > Prescriptive Analysis
 - [Marketing Research for Tesla (SPSS)](https://github.com/ko-allan/csueb-MKTG-310-tesla)
 
-## Data Engineering
-> Airflow
-- [Stock Data to csv](https://github.com/ko-allan/stock-calcs)
-- [Log Analyzer](https://github.com/ko-allan/airflow-log-analyzer)
-> Kafka
-- [Fraud Detector](https://github.com/ko-allan/kafka-fraud-detection)
-> Spark
-- [Post Sales Report](https://github.com/ko-allan/post-sales-report)
-> Pipelines
+### Data Engineering
+> MySQL Data Pipeline
 - [Event Ticket Data Pipeline](https://github.com/ko-allan/data-pipeline-test)
 
-## Visualizations
+### Visualizations
 - [KPI Dashboard using Tableau's Superstore Dataset](https://public.tableau.com/app/profile/allan.villanueva/viz/KPIDashboard-SalesProfitYOY/KPIDashboard)
 - [Treemap of Business Categories in Berkeley, California (2022)](https://public.tableau.com/app/profile/allan.villanueva/viz/BreakdownofBusinessesinBerkeley2022/BerkeleyNAICSTreemap)
 
@@ -57,7 +50,7 @@ This repository is a collection of the work that I've completed to show off my s
 
 - [Google Data Analytics](https://drive.google.com/file/d/1aJ199VKOuda-MRsihhmhu0J6NXSjpcF2/view?usp=sharing)
 
-## Statement of Accomplishments
+# Statement of Accomplishments
 
 ### DataCamp
 - [Introduction to Python](https://drive.google.com/file/d/1_UhiU1DKiU5Lhz81LMCQQobhVl04TVoK/view?usp=sharing)
