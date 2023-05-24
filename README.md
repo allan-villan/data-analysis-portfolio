@@ -6,7 +6,7 @@
 4) [Links](https://github.com/allan-villan/data-analysis-portfolio#links)
 
 # Background
-Hello! I am skilled in retrieving, cleaning, organizing, and analyzing data to enable better decisions. I'm knowledgeable on database systems, can perform ETL tasks, and have an interest in the Data Engineering side of things. Most of my working experience is with Microsoft Excel, but I’m capable of using Python and SQL as well. I’m always excited to apply my skills to help others make better decisions.
+Hello! I am skilled in retrieving, cleaning, organizing, and analyzing data to enable better decisions. I am knowledgeable about database systems and can perform ETL tasks. Most of my working experience is with Microsoft Excel, but I’m capable of using Python and SQL. I’m always excited to apply my skills to help others make better decisions.
 
 # Projects
 
