@@ -1,16 +1,12 @@
 # Allan Villanueva's Portfolio
 ## Table of Contents:
 1) [Background](https://github.com/allan-villan/data-analysis-portfolio#background)
-2) [Goal](https://github.com/allan-villan/data-analysis-portfolio#goal)
-3) [Projects](https://github.com/allan-villan/data-analysis-portfolio#projects)
-4) [Certifications](https://github.com/allan-villan/data-analysis-portfolio#certifications)
-5) [Links](https://github.com/allan-villan/data-analysis-portfolio#links)
+2) [Projects](https://github.com/allan-villan/data-analysis-portfolio#projects)
+3) [Certifications](https://github.com/allan-villan/data-analysis-portfolio#certifications)
+4) [Links](https://github.com/allan-villan/data-analysis-portfolio#links)
 
 # Background
-I graduated with a Bachelor of Science in Business Administration (General Management) from California State University, East Bay in 2020. During a Marketing Research course, I found that I love working with data. I was inspired to complete **Google's Data Analysis Professional Certificate**, hosted by *Coursera*, and loved every minute of it. 
-
-# Goal
-Help companies make better decisions by making it easier to do so.
+Hello! I am skilled in retrieving, cleaning, organizing, and analyzing data to enable better decisions. I'm knowledgeable on database systems, can perform ETL tasks, and have an interest in the Data Engineering side of things. Most of my working experience is with Microsoft Excel, but I’m capable of using Python and SQL as well. I’m always excited to apply my skills to help others make better decisions.
 
 # Projects
 
